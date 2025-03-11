@@ -1,0 +1,6 @@
+@StockAnalyticDataFetch_HostAddress = http://localhost:5255
+
+GET {{StockAnalyticDataFetch_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

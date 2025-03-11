@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "v2PIrnfHR31tXW8lbOWWQyjV8KSu75/jkd7MHzpC8sc=",
+  "Source": "StockAnalyticDataFetch",
+  "BasePath": "_content/StockAnalyticDataFetch",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
