@@ -30,3 +30,4 @@ C:\Users\dell\source\repos\StockAnalyticDataFetch\obj\Debug\net8.0\refint\StockA
 C:\Users\dell\source\repos\StockAnalyticDataFetch\obj\Debug\net8.0\StockAnalyticDataFetch.pdb
 C:\Users\dell\source\repos\StockAnalyticDataFetch\obj\Debug\net8.0\StockAnalyticDataFetch.genruntimeconfig.cache
 C:\Users\dell\source\repos\StockAnalyticDataFetch\obj\Debug\net8.0\ref\StockAnalyticDataFetch.dll
+C:\Users\dell\source\repos\StockAnalyticDataFetch\obj\Debug\net8.0\StockAnalyticDataFetch.sourcelink.json

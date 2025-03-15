@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StockAnalyticDataFetch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f051eadfb564ef1bb76ed5dea2409f1343750378")]
 [assembly: System.Reflection.AssemblyProductAttribute("StockAnalyticDataFetch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StockAnalyticDataFetch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

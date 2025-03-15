@@ -15,9 +15,10 @@ namespace StockAnalyticDataFetch.Controllers
             _stocks = stocks;
         }
         [HttpGet]
-        public void startDataFetch()
+        [Route("api/startStockDataFetch")]
+        public void startDataFetch(bool toStart)
         {
-            _stocks.startStockDataFetch();
+            _stocks.startStockDataFetch(toStart);
         }
     }
 }

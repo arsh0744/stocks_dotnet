@@ -2,11 +2,17 @@
   {
     "ContainingType": "StockAnalyticDataFetch.Controllers.StockController",
     "Method": "startDataFetch",
-    "RelativePath": "Stock",
+    "RelativePath": "Stock/api/startStockDataFetch",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "toStart",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": [
       {
         "Type": "System.Void",

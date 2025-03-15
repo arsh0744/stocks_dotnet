@@ -2,6 +2,6 @@
 {
     public interface StockService
     {
-        void startStockDataFetch();
+        void startStockDataFetch(bool toStart);
     }
 }
